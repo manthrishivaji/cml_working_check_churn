@@ -172,3 +172,4 @@ cython_debug/
 Churn_pipeline.skops
 metrics.txt
 model_results.png
+roc_curve.png
